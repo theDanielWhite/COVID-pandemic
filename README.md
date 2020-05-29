@@ -10,7 +10,7 @@
 
 <h3>Watch for symptoms<h3>
 
-People with COVID-19 have had a wide range of symptoms reported – ranging from mild symptoms to severe illness.
+<p>People with COVID-19 have had a wide range of symptoms reported – ranging from mild symptoms to severe illness.<p>
 
 Symptoms may appear **2-14 days after exposure to the virus.** People with these symptoms may have COVID-19:
 * Fever or chills
