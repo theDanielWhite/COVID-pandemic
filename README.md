@@ -4,7 +4,7 @@
     * [Watch for Symptoms](#watch-for-symptoms)
     * [When to Seek Emergency Attention](#when-to-seek-emergency-medical-attention)
     * [Caring for Yourself and Others](#caring-for-yourself-or-others)
-    * [More Information About Symptoms](#more-information-about-symptoms)
+    * [More Information About Symptoms](#more-information)
 * [Testing](#testing)
     * [Testing for COVID-19](#testing-for-covid\-19)
         * [Who Should be Tested](#who-should-be-tested)
@@ -19,7 +19,7 @@
         * [How to get an Antibody Test](#how-to-get-an-antibody-test)
             * [If you Test Positive](#if-you-test-positive)
             * [If you Test Negative](#if-you-test-negative)
-        * [CDC's Work in Antibody Testing](#cdc’/s-work-in-antibody-testing)
+        * [CDC's Work in Antibody Testing](#cdc's-work-in-antibody-testing)
 * [How COVID-19 Spreads](#how-covid\-19-spreads)
     * [Person-to-Person](#person\-to\-person-spread)
     * [The Virus Spreads Easily Between People](#the-virus-spreads-easily-between-people)
@@ -39,7 +39,7 @@
     * [Handwashing Resources](#handwashing-resources)
     * [More Informations about how to Protect Yourself and Others](#more-information-about-how-to-protect-yourself-and-others)
 * [Social Distancing](#social-distancing)
-    * [What is Social Distancing?](#what-is-social-distancing\?)
+    * [What is Social Distancing?](#what-is-social-distancing-?)
         * [If you have been Exposed or Sick](#if-you-are-exposed-or-sick)
         
 <h1>Coronavirus Disease 2019<h1>
@@ -149,7 +149,7 @@ For information on antibody surveillance, see [objectives and types of surverys]
 For information on CDC viral and antibody testing, see information on [CDC lab tests](https://www.cdc.gov/coronavirus/2019-nCoV/lab/index.html).
 <h4>
 
-<h3>More Information<h3>
+<h3>More Information About COVID Testing<h3>
 
 <h4>
 
@@ -201,7 +201,7 @@ To get your test result, please check with the group that performed your test, s
 For information on evaluating and testing, see [recommendations for reporting, testing, and specimen collection](https://www.cdc.gov/coronavirus/2019-nCoV/hcp/clinical-criteria.html)
 <h4>
 
-<h3>More Information<h3>
+<h3>More Information About Viral Testing<h3>
 
 <h4>
 
@@ -325,7 +325,7 @@ Learn more about what you can do to [protect yourself and others](https://www.cd
 #### More Information about how COVID-19 Spreads
 [ASL Video Series: How does COVID-19 Spread?](https://www.youtube.com/watch?v=m4gborCUztk&list=PLvrp9iOILTQatwnqm61jqFrsfUB4RKh6J&index=7&t=0s)
 
-## How to Protect Yourself & Others
+## How to Protect Yourself and Others
 > **Older adults and people who have severe underlying medical conditions** like heart or lung disease or diabetes seem to be at higher risk for developing serious complications from COVID-19 illness. More information on [Are you at higher risk for serious illness.](https://www.cdc.gov/coronavirus/2019-ncov/need-extra-precautions/people-at-higher-risk.html)
 
 ### Know how it spreads
@@ -400,7 +400,7 @@ people arrows icon
 
 Limiting face-to-face contact with others is the best way to reduce the spread of coronavirus disease 2019 (COVID-19).
 
-### What is social distancing?
+### What is social distancing? 
 ![image](https://www.cdc.gov/coronavirus/2019-ncov/images/COVIDweb_avoidCloseContact_masks_rect-01.png)
 Social distancing, also called “physical distancing,” means keeping space between yourself and other people outside of your home. To practice social or physical distancing:
 
